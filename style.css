@@ -130,7 +130,7 @@ width:100%;
            
             .homeimg
             {
-                width: 430px;
+                min-width: 330px;
             }
             .abouttext
             {
