@@ -130,7 +130,7 @@ width:100%;
            
             .homeimg
             {
-                width: 330px;
+                max-width: 330px;
             }
             .abouttext
             {
@@ -210,7 +210,7 @@ width:100%;
            }
             .contact-img
             {
-            width :330px;  
+            max-width :330px;  
             }
            form
            {
