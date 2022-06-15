@@ -2,6 +2,10 @@
     font-family: Poppins;
         color:black;
     }
+html,
+body{
+width:100%;
+}
     body{
         overflow-x: hidden;
     -webkit-user-select: none;
