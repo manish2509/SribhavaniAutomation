@@ -115,16 +115,12 @@ width:100%;
             -o-transform: rotate(-135deg);
             transform: rotate(-135deg);
             }
-            .carousel-caption
-            {
-                margin-bottom: 0;
-                padding: 20px;
-            }
+            
             @media screen and (max-width: 992px) {
                 .carousel-item img
             {
-                width: 400;
-                height: 300;
+                width: 400px;
+                height: 300px;
             }
               }
            
